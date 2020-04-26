@@ -1,1 +1,3 @@
-
+Calculated PCA of covariance matrix of returns using a rolling window of returns. 
+Defined and computed Absorption Ratio.
+Implemented simple portfolio trading strategy based on absorption ratio signal.
